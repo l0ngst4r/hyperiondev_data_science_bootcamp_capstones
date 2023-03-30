@@ -1,7 +1,7 @@
 
 # HyperionDev Data Science Bootcamp, Dec 5, 2022 cohort
-# Task 51, Capstone 7, Compulsory Task 1
-# Author: Zsolt Pal, Feb 26, 2023
+Task 51, Capstone 7, Compulsory Task 1
+Author: Zsolt Pal, Feb 26, 2023
 
 # US Arrests Analysis
 
