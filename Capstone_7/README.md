@@ -1,3 +1,8 @@
+
+# HyperionDev Data Science Bootcamp, Dec 5, 2022 cohort
+# Task 51, Capstone 7, Compulsory Task 1
+# Author: Zsolt Pal, Feb 26, 2023
+
 # US Arrests Analysis
 
 This project aims to analyse crime rates across different cities in the United States. We use the `UsArrests.csv` dataset, which contains information about the number of arrests for different types of crimes (murder, assault, and rape) and the urban population percentage for each city.
